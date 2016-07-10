@@ -1,0 +1,14 @@
+layout_spectrum: 0.6780408464837819
+typography_spectrum: 0.2761656471993774
+color:
+  brandStrength: 0.23530777217820287
+  lightness: 0.6393011203035712
+  saturation: 0.5984014365822077
+  rhythmicContrast: 0.12363390950486064
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: CivicScreen
